@@ -1,0 +1,21 @@
+{
+  "name": "challenge-flaky-test",
+  "version": "1.0.0",
+  "private": true,
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "prop-types": "15.6.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "validator": "5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
